@@ -2,7 +2,7 @@
 My submission for Juniper Dev's **The Very Serious Game Jam**.
 ### Cover
 
-![Cover](images/poster.png)
+![Cover](poster.png)
 
 ## About The Game
 The Golden Shell is a 2D side-view game where the player controls an armadillo on a journey to reach the legendary Golden Shell while avoiding various obstacles.
@@ -13,7 +13,7 @@ The project was created during a game jam with a limited development time.
 
 ### Gameplay
 
-![Gameplay 1](images/screenshot-1.png)
+![Gameplay 1](screenshot-1.png)
 
 ![Gameplay 2](images/screenshot-2.png)
 
