@@ -15,22 +15,22 @@ The project was created during a game jam with a limited development time.
 
 ![Gameplay 1](screenshot-1.png)
 
-![Gameplay 2](images/screenshot-2.png)
+![Gameplay 2](screenshot-2.png)
 
-![Gameplay 3](images/screenshot-3.png)
+![Gameplay 3](screenshot-3.png)
 
 ### Development
 
-![Unity Scene](images/unity-window-1.png)
-![Unity Scene](images/unity-window-2.png)
+![Unity Scene](unity-window-1.png)
+![Unity Scene](unity-window-2.png)
 
 ### Art
 
-![Sprite Sheet](images/pixart-1.png)
-![Sprite Sheet](images/pixart-2.png)
-![Sprite Sheet](images/pixart-3.png)
-![Sprite Sheet](images/pixart-4.png)
-![Sprite Sheet](images/pixart-5.png)
+![Sprite Sheet](pixart-1.png)
+![Sprite Sheet](pixart-2.png)
+![Sprite Sheet](pixart-3.png)
+![Sprite Sheet](pixart-4.png)
+![Sprite Sheet](pixart-5.png)
 
 ## Theme
 
@@ -69,4 +69,4 @@ Every sprite in the game was hand-drawn.
 
 ## Play The Game
 
-🎮 https://mrheck.itch.io/the-golden-shell
+ https://mrheck.itch.io/the-golden-shell
