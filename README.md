@@ -13,8 +13,8 @@ Spinning
 
 ## About The Game
 The Golden Shell is a 2D side-view game where the protagonist is  an armadillo.
-Who is on a journey to reach it's home The Golden Shell while avoiding various obstacles.
-Obstacles such as the poacher the traps and the predators.
+Who is on his journey to reach it's home 'The Golden Shell' while avoiding various obstacles,
+Obstacles such as the poacher , the traps and the predators.
 The project was created during a game jam with a limited development time.
 
 ## Screenshots
